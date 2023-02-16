@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: white;
+	margin: 0;
+}
+   
+.wrapper{
+    background-color: skyblue;
+    width: 100%;
+    height: 760px;
+    float: left;
+
+}
+
+.logo{
+	background-color: green;
+	width: 120px;
+	height: 70px;
+	float: left;
+}
+
+.menu{
+	background-color: orange;
+	width: 91.6%;
+	height: 70px;
+	float: left;
+}
+
+.display{
+	background-color: blue;
+	width: 100%;
+	height: 700px;
+	
+}
+
+h1{
+	background-color: blue;
+	width: 80%;
+	height: 600px;
+	
+}
+.footer{
+	background-color: green;
+	width: 100%;
+	height: 59px;
+}
+ ul{
+ 	display: inline-block;
+ 	margin: 0;
+ 	padding: 30px;
+ }
+ li{
+ 	display: inline;
+ 	mergin-right: 10px;
+
+ }
+ li a{
+ 	display: inline-block;
+ }
